@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - snd-hda 
+# ELS - Enterprise Linux/EuroLinux Sources - snd-hda
+ 
 ## Usage:
   Checkout branch or tag.
